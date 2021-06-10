@@ -32,7 +32,8 @@ console.log(obj2); // should return {a: 1, b: 2, c: 3}
 
 // console.log('5', );
 
-// // 6. Write function to remove. 'null', '0', '""', 'false', 'undefined' and 'NaN' values from an array.
+// // 6. Write function to remove.
+// 'null', '0', '""', 'false', 'undefined' and 'NaN' values from an array.
 
 // console.log('6: ', yourFuncName([10, null, -12, false, undefined, '', 0, 234]));
 
