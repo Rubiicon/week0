@@ -15,8 +15,8 @@ console.log(obj); // output {a: 1, b: 2};
 console.log(obj2); // should return {a: 1, b: 2, c: 3}
 
 // // 3.Check if is given input is array (Please, use more than one solution)
-// const input1 = 'array';
-// const input2 = ['array'];
+const input1 = 'array';
+const input2 = ['array'];
 
 // console.log('3', )
 // console.log('3.1')
